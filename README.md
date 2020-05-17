@@ -1,5 +1,5 @@
 # OpenCV-Web-Stream-With-Aruco-Tracking
-
+![alt text](https://github.com/ddelago/OpenCV-Web-Stream-With-Aruco-Tracking/blob/master/demo.gif)
 ## Starting the camera server
 1. Be sure to have `opencv-python`, `opencv-contrib-python`, `imutils`, and `Flask` install by using pip.
 2. Calibrate your camera using `calibration/calibration_ChAruco.py`
